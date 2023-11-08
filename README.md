@@ -1,8 +1,8 @@
 
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);丁同学祝您今天愉快!&center=true&size=27"> 
-</h1>
-
+<!--
+代码改变生活
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Write+the+Code+%EF%BC%8C+Change+the+world+%EF%BC%81)](https://git.io/typing-svg)
 
 <!--
 **Ding95/Ding95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
