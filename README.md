@@ -1,6 +1,5 @@
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
-
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Ding95&theme=xcode" /> </div>
 
 <!--
 **Ding95/Ding95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
