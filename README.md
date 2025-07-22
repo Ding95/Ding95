@@ -1,21 +1,21 @@
+# Hi there! 👋
 
-<!--
-代码改变生活
--->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Write+the+Code+%EF%BC%8C+Change+the+world+%EF%BC%81)](https://git.io/typing-svg)
+I'm a front-end developer with over 10 years of experience, specializing in **React** and **Vue**. I’ve also worked on **React Native**, **mini programs**, and **web development**. Currently, I’m focused on developing backend management systems using **React** and **Ant Design (antd)**. My interests are wide-ranging, and I’m always eager to explore new technologies and projects.
 
+## 🌱 What I’m currently working on:
+- Building and maintaining backend management systems with **React** + **Ant Design**
+- Exploring mobile app development with **React Native**
+- Working on various web technologies
 
-<!--
-**Ding95/Ding95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 What I’m learning:
+- Enhancing my skills in advanced React patterns
+- Diving deeper into performance optimization
+- Exploring UI/UX best practices
 
-Here are some ideas to get you started:
+## 🤝 I’m looking to collaborate on:
+- Open source React, Vue, and React Native projects
+- Front-end performance optimizations
+- Interesting UI/UX design challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun fact:
+- I love exploring new tech stacks and dabbling in a bit of back-end development too.
